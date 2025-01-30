@@ -26,3 +26,17 @@ To run this project, you need the following Python packages:
 - scikit-learn: For machine learning algorithms.
 
 - numpy: For numerical computations.
+
+## Model Details
+- Algorithm: Naive Bayes Classifier.
+
+- Vectorizer: CountVectorizer for converting text into numerical features.
+
+- Training-Test Split: 80% training, 20% testing.
+
+## Future Enhancements
+- Use TF-IDF Vectorizer for improved text representation.
+
+- Explore deep learning models like LSTMs for enhanced performance.
+
+- Add multilingual SMS spam detection.
